@@ -6,7 +6,7 @@
 
   <a href="https://juliadooby.github.io/Lux-CarRent/"><strong>➥Demo</strong></a>
 
-<div align="center"><img src=https://github.com/juliaDooby/Lux-CarRent/blob/main/Luxcar_1.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Lux-CarRent/blob/main/Luxcar_1.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/Lux-CarRent/blob/main/Luxcar_2.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/Lux-CarRent/blob/main/Luxcar_3.JPG" width="100%" height="20%"></img></div>
 
